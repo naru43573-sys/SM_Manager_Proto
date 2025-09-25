@@ -1,2 +1,2 @@
-# SM_Manager_Proto
+# multi_social_media_dashboard
 Proto idea 
